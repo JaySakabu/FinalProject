@@ -13,7 +13,6 @@ Those who want to upgrade their computers, novices to PCs
 
 "I do not have enough storage" [Click here](Storage.md)
 
-"My computer keeps shutting off!" [Click here](Power.md)
 
 
 
